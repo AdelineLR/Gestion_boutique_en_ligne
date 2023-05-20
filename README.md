@@ -8,12 +8,12 @@
 * Gérer les erreurs et les incohérences présentes sur des données stockées
 
 ## Contexte 
-
+BottleNeck, un marchand de vin, souhaite pouvoir suivre la gestion de ses stocks et avoir une visibilité en termes d'analyse de ses ventes en ligne.
 
 ## Données
-* erp.csv : table contenant 
-* liaison.csv : table contenant 
-* web.csv : table contenant 
+* erp.csv : export de l’ERP contenant les références produits, leurs prix de vente et leurs états de stock
+* liaison.csv : table de correspondance du product_id de l’ERP et de la référence côté Web
+* web.csv : export de l’outil de CMS contenant les informations des produits commercialisés en ligne (nom, description, nombre de ventes pour chaque produit depuis sa mise en ligne, ...)
 
 ## Fichiers
 * LeRay_Adeline_1_Notebook_112022.ipynb : Notebook python
