@@ -1,6 +1,6 @@
 # Optimiser la gestion des données d'une boutique de ventes en ligne
  
- _Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms_
+ _Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms (Projet n°5 - Nov. 2022)_
  
 ## Compétences acquises
 * Réaliser une analyse univariée pour interpréter des données
